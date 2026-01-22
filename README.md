@@ -52,5 +52,5 @@ atm-simulation/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/atm-simulation.git
+   git clone https://github.com/Ruxana4646/atm_simulation.git
    
