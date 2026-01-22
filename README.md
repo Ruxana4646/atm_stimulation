@@ -40,3 +40,17 @@ The project demonstrates how core Python logic can be transformed into a user-fr
 ---
 
 ## 📂 Project Structure
+atm-simulation/
+│
+├── atm_app.py          # Streamlit application code
+├── requirements.txt    # Project dependencies
+└── README.md           # Project documentation
+
+---
+
+## ▶️ How to Run the Project Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/atm-simulation.git
+   
